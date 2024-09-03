@@ -4,10 +4,9 @@ Here we have uploaded a few useful visualisations:
   1.  A video walkthrough of the workflow is shown in walkthrough
   2.  Spalling_assessment_workflow.png - This diagram shows the full psalling assessment workflow
 
-For full details of the workflow, please see our publication:
+For full details of the workflow, please see our recent publication:
 
 https://www.sciencedirect.com/science/article/pii/S0886779824004619
-
 
 
 
